@@ -5,7 +5,7 @@
 I am a proactive developer focused on building scalable web applications and efficient backend solutions. With **+8 months of professional experience** in international and local environments, I specialize in the **Python** and **JavaScript** ecosystems, delivering clean code and modern user interfaces.
 
 - 🌍 **International Experience:** Collaborated with teams in Australia and Colombia.
-- 🤖 **AI Exposure:**  Practical understanding of AI agent architectures using **LangGraph** and **Azure Document Intelligence**.
+- 🤖 **AI Exposure:**  Practical understanding of basic AI agent architectures using **LangGraph** and **Azure Document Intelligence**.
 - 🗣️ **Languages:** Bilingual (**English B2+** / Spanish Native).
 - 🚀 **Goal:** Creating high-quality software through automation, agile methodologies, and continuous learning.
 
